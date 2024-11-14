@@ -38,6 +38,8 @@ To secure a challenging position as a Level 1 SOC Analyst where I can apply my c
 | Basic Machine Learning for Threat Detection    |	Machine Learning for Web Tracking Detection and Classification|
 | Feature Extraction and Data Preparation        |	Machine Learning for Web Tracking Detection and Classification|
 | Alert Tuning and Rule Configuration            |	Machine Learning for Web Tracking Detection and Classification|
+| Data Privacy and Compliance Assessment         |	Traffic Analysis and Privacy Assessment of Android Applications|
+| HTTP/S Session and Cookie Inspection           |	Traffic Analysis and Privacy Assessment of Android Applications|
 
 
 ## 🛠️ Tools
