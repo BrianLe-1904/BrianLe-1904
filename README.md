@@ -1,4 +1,4 @@
-## Hi, this is Brian L 👋
+# HELLO, THIS IS BRIAN L 👋
 
 <!--
 **BrianLe-1904/BrianLe-1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
 <a href="https://www.linkedin.com/in/brian-l-074636190/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/dandanisbrian/"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
 
 ## 🌱 Brief Introduction
 As a soon-to-be graduate in Cybersecurity with a focus on Security Operations Center (SOC) analysis, I am passionate about defending networks from cyber threats and am eager to begin my career on the front lines of digital security. My training has equipped me with a strong foundation in cybersecurity principles, particularly in monitoring, threat intelligence, and incident response. Through hands-on experience with SIEM technologies and vulnerability management tools, I have developed the analytical skills needed to assess and escalate security incidents in real-time.
@@ -47,6 +50,7 @@ To secure a challenging position as a Level 1 SOC Analyst where I can apply my c
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-mitmproxy-4CAF50?style=for-the-badge&logo=mitmproxy&logoColor=white" /> 
 </div>
 
 ### Endpoint
@@ -59,9 +63,25 @@ To secure a challenging position as a Level 1 SOC Analyst where I can apply my c
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0050DB?style=for-the-badge&logo=Wazuh&logoColor=white" /> 
 </div>
 
+### SOAR
+<div> <img src="https://img.shields.io/badge/-Shuffle-181717?style=for-the-badge&logo=Shuffle&logoColor=white" /> 
+</div> 
+
+### Case Management
+<div> <img src="https://img.shields.io/badge/-TheHive-FADA5E?style=for-the-badge&logo=TheHive&logoColor=black" /> </div>
+
+### Scripting and Automation
+<div> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> </div>
+
+
 ## 📄 Certifications
+<div>
+    <img src="https://img.shields.io/badge/-CompTIA_CySA+-E00A22?style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security_Blue_Team_BTL1-0A66C2?style=for-the-badge&logo=SecurityBlueTeam&logoColor=white" />
+</div>
 <!--
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -76,3 +96,4 @@ To secure a challenging position as a Level 1 SOC Analyst where I can apply my c
 - <a href="https://github.com/BrianLe-1904/SOC-Automation-Lab.git">SOC Automation Project</a>
 - <a href="https://github.com/BrianLe-1904/Network-Anomaly-Detection-Using-Entropy-for-Attack-Diagnostics.git">Network Anomaly Detection Using Entropy for Attack Diagnostics</a>
 - <a href="https://github.com/BrianLe-1904/Machine-Learning-for-Web-Tracking-Detection-and-Classification.git">Machine Learning for Web Tracking Detection and Classification</a>
+- <a href="https://github.com/BrianLe-1904/Machine-Learning-for-Web-Tracking-Detection-and-Classification.git">Traffic Analysis and Privacy Assessment of Android Applications</a>
