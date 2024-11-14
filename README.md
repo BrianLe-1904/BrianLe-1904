@@ -32,6 +32,12 @@ To secure a challenging position as a Level 1 SOC Analyst where I can apply my c
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Analysis for Anomaly Detection |	Network Anomaly Detection Using Entropy for Attack Diagnostics|
+| Log Analysis and Event Correlation             |	Network Anomaly Detection Using Entropy for Attack Diagnostics|
+| Threat Identification and Baseline Monitoring  |	Network Anomaly Detection Using Entropy for Attack Diagnostics|
+| Basic Machine Learning for Threat Detection    |	Machine Learning for Web Tracking Detection and Classification|
+| Feature Extraction and Data Preparation        |	Machine Learning for Web Tracking Detection and Classification|
+| Alert Tuning and Rule Configuration            |	Machine Learning for Web Tracking Detection and Classification|
 
 
 ## 🛠️ Tools
@@ -65,5 +71,6 @@ To secure a challenging position as a Level 1 SOC Analyst where I can apply my c
 -->
 
 ## 💻 Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/BrianLe-1904/SOC-Automation-Lab.git">SOC Automation Project</a>
+- <a href="https://github.com/BrianLe-1904/Network-Anomaly-Detection-Using-Entropy-for-Attack-Diagnostics.git">Network Anomaly Detection Using Entropy for Attack Diagnostics</a>
+- <a href="https://github.com/BrianLe-1904/Machine-Learning-for-Web-Tracking-Detection-and-Classification.git">Machine Learning for Web Tracking Detection and Classification</a>
