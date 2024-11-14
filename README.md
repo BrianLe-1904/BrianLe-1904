@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, this is Brian L 👋
 
 <!--
 **BrianLe-1904/BrianLe-1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.linkedin.com/in/brian-l-074636190/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## 🌱 Brief Introduction
+As a soon-to-be graduate in Cybersecurity with a focus on Security Operations Center (SOC) analysis, I am passionate about defending networks from cyber threats and am eager to begin my career on the front lines of digital security. My training has equipped me with a strong foundation in cybersecurity principles, particularly in monitoring, threat intelligence, and incident response. Through hands-on experience with SIEM technologies and vulnerability management tools, I have developed the analytical skills needed to assess and escalate security incidents in real-time.
+
+In addition to my technical expertise, I bring strong collaborative and communication skills, allowing me to work effectively within a team and interface with clients. Committed to continuous learning, I am excited about opportunities to further develop my knowledge and skills, including completing certifications like CompTIA CySA+ and advanced Blue Team training. I am driven by the challenge of staying at the forefront of cyber defense, working to identify and address threats before they impact the organizations I serve.
+
+## 🔭 Objective
+To secure a challenging position as a Level 1 SOC Analyst where I can apply my cybersecurity knowledge and technical skills to proactively monitor, detect, and respond to security threats. I aim to leverage my hands-on experience with SIEM and vulnerability management tools, along with my commitment to continuous learning, to protect client networks and contribute effectively to a dynamic Security Operations Center team. Eager to complete advanced certifications and deepen my expertise, I am dedicated to growing within a forward-thinking organization that values information security and professional development.
+
+## 🕶️ Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+## 🛠️ Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## 📄 Certifications
+<!--
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+-->
+
+## 💻 Projects
+- Detection Lab
+- SOC Automation Project
