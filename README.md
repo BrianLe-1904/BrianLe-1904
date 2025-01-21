@@ -77,7 +77,7 @@ To secure a challenging position as a Level 1 SOC Analyst where I can apply my c
 <div> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> </div>
 
 
-## 📄 Certifications
+## 📄 Certifications (expected 2025)
 <div>
     <img src="https://img.shields.io/badge/-CompTIA_CySA+-E00A22?style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security_Blue_Team_BTL1-0A66C2?style=for-the-badge&logo=SecurityBlueTeam&logoColor=white" />
